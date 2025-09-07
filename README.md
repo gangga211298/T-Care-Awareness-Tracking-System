@@ -109,6 +109,7 @@ With these insights, **Management, Sales, and After-Sales** teams can make decis
 
 ## Application & Dashboard Demo  
 - 📱 **Application**: [T-Care AppSheet](https://www.appsheet.com/newshortcut/e11524a1-0482-459a-842a-086da3997dfe)
+- **For login: (Username: Gangga | Password: Gangga)**
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/c39a545a-9196-47cb-a11a-0847546ba733" />
 <img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/b75aa49b-a99a-44ff-aec9-e7efba7bff29" />
 

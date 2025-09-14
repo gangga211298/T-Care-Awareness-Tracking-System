@@ -37,7 +37,7 @@ The project aims to:
 
 ---
 
-## Flow of Use of the T-Care Awareness Tracking System Application  
+## Flow of Use of the T-Care Awareness Tracking System
 
 The system involves all PICs at **Astrido Toyota Kebon Jeruk**, namely:  
 - Admin  

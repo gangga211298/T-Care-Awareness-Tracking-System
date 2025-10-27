@@ -108,12 +108,12 @@ With these insights, **Management, Sales, and After-Sales** teams can make decis
 ---
 
 ## Application & Dashboard Demo  
-- 📱 **Application**: [T-Care AppSheet](https://www.appsheet.com/newshortcut/e11524a1-0482-459a-842a-086da3997dfe)
+- **Application**: [T-Care AppSheet](https://www.appsheet.com/newshortcut/e11524a1-0482-459a-842a-086da3997dfe)
 - **For login: (Username: Gangga | Password: Gangga)**
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/c39a545a-9196-47cb-a11a-0847546ba733" />
 <img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/b75aa49b-a99a-44ff-aec9-e7efba7bff29" />
 
-- 📊 **Dashboard**: [T-Care Looker Studio](https://lookerstudio.google.com/u/0/reporting/775f16e3-0b50-46a9-b93a-67038ed32540)  
+- **Dashboard**: [T-Care Looker Studio](https://lookerstudio.google.com/u/0/reporting/775f16e3-0b50-46a9-b93a-67038ed32540)  
 ![T-Care_Awareness_Tracking_Dashboard](https://github.com/user-attachments/assets/74eec5cb-f0e4-4799-a88b-03afeceae98c)
 
 ---
@@ -134,7 +134,7 @@ With this system:
 **Implementation Results:**
 <img width="1280" height="720" alt="TYY" src="https://github.com/user-attachments/assets/b357d788-24c2-45ac-92d3-777ce5e34d66" />
 
-✨ With this system, processes that were previously *manual, fragmented, and difficult to monitor* are now **automated, integrated, and transparent**.  
+With this system, processes that were previously *manual, fragmented, and difficult to monitor* are now **automated, integrated, and transparent**.  
 
 ---
 
@@ -142,10 +142,10 @@ With this system:
 The **T-Care Awareness Tracking System** is a key component of the **Trade-Cycle Management (TCM) project** at **Astrido Toyota Kebon Jeruk**, serving as a Pilot Project.  
 
 Under the direct guidance and supervision of the **Board of Directors (BOD) of Astrido Toyota** and **Toyota Astra Motor (TAM)**, this project has successfully achieved the following:  
-- ✅ Direct review (*genba*) by the BOD of Astrido and TAM  
-- 🏆 1st Place Winner at the **2023 Regional Kaizen Innovation Marathon (RKIM)**  
-- 🔄 Replicated (*Yokoten*) to **17 other Astrido Toyota branches**  
-- 📌 Became the **benchmark for TCM implementation** across all Toyota dealers in Indonesia  
+- Direct review (*genba*) by the BOD of Astrido and TAM  
+- 1st Place Winner at the **2023 Regional Kaizen Innovation Marathon (RKIM)**  
+- Replicated (*Yokoten*) to **17 other Astrido Toyota branches**  
+- Became the **benchmark for TCM implementation** across all Toyota dealers in Indonesia  
 
 <img width="1280" height="720" alt="DSDSD" src="https://github.com/user-attachments/assets/cbef4a98-b29b-4319-b17d-cdcbf638c99f" />
 
@@ -153,19 +153,19 @@ Under the direct guidance and supervision of the **Board of Directors (BOD) of A
 
 ## Key Learnings  
 
-### 🔗 No-Code Tools Integration  
+### No-Code Tools Integration  
 - Learned how to connect *AppSheet*, *Google Sheets*, and *Looker Studio* into an interconnected system.  
 - **Challenge:** ensuring consistent data structure for easy processing and visualisation.  
 
-### 🛠 Workflow Design  
+### Workflow Design  
 - Understood the importance of designing a **clear process flow** for each PIC (*Admin, Salesman, CRC, MRA, SA*).  
 - Learned that proper flow documentation helps minimise miscommunication and ensures smoother adoption.  
 
-### 📊 Data-Driven Decision Making  
+### Data-Driven Decision Making  
 - Real-time **dashboards** provide insights that were previously impossible with manual processes.  
 - Customer **awareness** and **interest** can now be monitored directly, enabling faster, more specific decisions by Management.  
 
-### 🚀 Future Improvements  
+### Future Improvements  
 - Integrate **automatic notifications** (WhatsApp/Email) for service reminders.  
 - Add a **tracking feature** up to the **7th service** for more comprehensive monitoring.  
 - Connect data to the **CRM system** for a more complete customer journey view.  

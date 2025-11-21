@@ -7,7 +7,7 @@ This programme offers:
 - Free service and parts for up to **7 periodic services**, or for **3 years / 60,000 km**.  
 - **Extended warranty** for **1 year / 20,000 km**, provided that the customer routinely services their vehicle every 6 months.  
 
-However, at **Astrido Toyota Kebon Jeruk**, the claim rate remained low during the January–April 2023 period:  
+However, at **Astrido Toyota Green Garden**, the claim rate remained low during the January–April 2023 period:  
 - 1st Service : 80%  
 - 2nd Service : 75%  
 
@@ -39,7 +39,7 @@ The project aims to:
 
 ## Flow of Use of the T-Care Awareness Tracking System
 
-The system involves all PICs at **Astrido Toyota Kebon Jeruk**, namely:  
+The system involves all PICs at **Astrido Toyota Green Garden**, namely:  
 - Admin  
 - Salesman  
 - Customer Relations Coordinator (CRC)  
@@ -139,7 +139,7 @@ With this system, processes that were previously *manual, fragmented, and diffic
 ---
 
 ## Project Achievements  
-The **T-Care Awareness Tracking System** is a key component of the **Trade-Cycle Management (TCM) project** at **Astrido Toyota Kebon Jeruk**, serving as a Pilot Project.  
+The **T-Care Awareness Tracking System** is a key component of the **Trade-Cycle Management (TCM) project** at **Astrido Toyota Green Garden**, serving as a Pilot Project.  
 
 Under the direct guidance and supervision of the **Board of Directors (BOD) of Astrido Toyota** and **Toyota Astra Motor (TAM)**, this project has successfully achieved the following:  
 - Direct review (*genba*) by the BOD of Astrido and TAM  
